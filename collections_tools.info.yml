@@ -1,0 +1,7 @@
+name: Collections Tools
+description: Tools for the Collections system.
+package: Custom
+type: module
+core: 8.x
+dependencies:
+  - field

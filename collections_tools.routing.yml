@@ -1,0 +1,7 @@
+collections_tools.import:
+  path: '/import'
+  defaults:
+    _form: 'Drupal\collections_tools\Form\ImportForm'
+    _title: 'Import Items'
+  requirements:
+    _permission: 'add content'
